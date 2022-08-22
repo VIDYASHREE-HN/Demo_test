@@ -1,4 +1,4 @@
-def calculate_lcm(self,x,y):
+def calculate_lcm(x,y):
     if x>y:  
         print(x)
     else:   
